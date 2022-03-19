@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MIMUW-FORK",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HashMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HashMap-Debug-901d62980394d7c89529.json",
+					"name" : "HashMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tree-Debug-b714a65fecbe669d6cff.json",
+					"name" : "Tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "err::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-err-Debug-b37ec755be07bc284c17.json",
+					"name" : "err",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-8233edc24ab7976e9005.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "path_utils::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-path_utils-Debug-d5a77c9f1cb5b24031fd.json",
+					"name" : "path_utils",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/basiau/Downloads/bu421791 2/cmake-build-debug",
+		"source" : "/Users/basiau/Downloads/bu421791 2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
